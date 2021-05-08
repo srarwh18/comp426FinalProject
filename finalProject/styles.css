@@ -1,0 +1,41 @@
+#root {
+    display: flex;
+    align-content: space-between;
+    justify-content: center;
+}
+
+div {
+    flex: 1;
+    margin: 5%;
+    align-items: center;
+    justify-content: center;
+}
+
+#weather {
+    text-align: right;
+    max-width: 10%;
+}
+
+#weatherIcon {
+    max-width: 100%;
+}
+
+#work {
+    text-align: center;
+}
+
+#play {
+    text-align: center;
+}
+
+#watch {
+    text-align: center;
+}
+
+#scroll {
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+}
